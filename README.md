@@ -1,2 +1,2 @@
-# Thread
-This is for studying Thread.
+# Study
+This is for studying.
